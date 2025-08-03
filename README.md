@@ -40,7 +40,7 @@ Designed for both analytical insight and visual storytelling, this dashboard ena
 
 ## Dashboard View
 - <a href= "https://github.com/PrajaktaPortfolio/Music-Analytics-Dashboard/blob/main/Music%20Report.pbix" >Music Analytics Dashboard File </a>
-- Page1: <img width="1781" height="742" alt="Music Analysis Dashboard" src="https://github.com/user-attachments/assets/6080705e-a8a1-4ef4-972a-9e028d1f4c88" />
+- Page1:Music Dashboard High-Level Overview <img width="1781" height="742" alt="Music Analysis Dashboard" src="https://github.com/user-attachments/assets/6080705e-a8a1-4ef4-972a-9e028d1f4c88" />
 - Page 2: Drill through <img width="1784" height="745" alt="image" src="https://github.com/user-attachments/assets/0fc24918-9333-4b64-825c-3b20551b8939" />
 
 
