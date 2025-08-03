@@ -20,20 +20,20 @@ Designed for both analytical insight and visual storytelling, this dashboard ena
 - <a href="https://github.com/PrajaktaPortfolio/Music-Analytics-Dashboard/blob/main/track.csv">Track </a>
 
 ## KPIs 
-- ##Total Tracks:##	The total number of music tracks available in the dataset.
-- Total Artist:	Total unique artists represented in the data.
-- Total Album:	Count of unique music albums.
-- Total Sales:	Total number of sales or purchases (e.g., song downloads or albums sold).
-- Total Quantity: Sold	The total volume or units sold, possibly indicating number of items bought.
-- Total Minutes:	Total listening time in minutes, summing up user consumption duration.
+- **Total Tracks:**	The total number of music tracks available in the dataset.
+- **Total Artist:**	Total unique artists represented in the data.
+- **Total Album:**	Count of unique music albums.
+- **Total Sales:**	Total number of sales or purchases (e.g., song downloads or albums sold).
+- **Total Quantity:** Sold	The total volume or units sold, possibly indicating number of items bought.
+-** Total Minutes:**	Total listening time in minutes, summing up user consumption duration.
 
 ## Key Dashboard Features
-- Year Selector (2017–2020):	View analytics based on the selected year
-- Genre & Playlist Filters:	Slice data by genre (e.g., Jazz, Rock) or playlist (e.g., 90s Music, Classical)
-- KPI Cards:	Instant insights on total tracks, artists, albums, sales, quantity, and minutes
-- Monthly Trends:	Visualize track performance across all 12 months
-- Geographic Analysis:	Track music consumption by Country and City
-- Media Type: Filter	Segment by media format (e.g., Music Videos, Audiobooks)
+- **Year Selector (2017–2020):**	View analytics based on the selected year
+- **Genre & Playlist:** Filters Slice data by genre (e.g., Jazz, Rock) or playlist (e.g., 90s Music, Classical)
+- **KPI Cards:**	Instant insights on total tracks, artists, albums, sales, quantity, and minutes
+- **Monthly Trends:**	Visualize track performance across all 12 months
+- **Geographic Analysis:**	Track music consumption by Country and City
+- **Media Type:** Filter	Segment by media format (e.g., Music Videos, Audiobooks)
 
 
 ## Dashboard View
