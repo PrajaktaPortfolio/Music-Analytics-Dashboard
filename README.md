@@ -20,7 +20,7 @@ Designed for both analytical insight and visual storytelling, this dashboard ena
 - <a href="https://github.com/PrajaktaPortfolio/Music-Analytics-Dashboard/blob/main/track.csv">Track </a>
 
 ## KPIs 
-- *Total Tracks:*	The total number of music tracks available in the dataset.
+- ##Total Tracks:##	The total number of music tracks available in the dataset.
 - Total Artist:	Total unique artists represented in the data.
 - Total Album:	Count of unique music albums.
 - Total Sales:	Total number of sales or purchases (e.g., song downloads or albums sold).
