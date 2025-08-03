@@ -6,6 +6,7 @@ This project showcases an interactive Power BI dashboard that analyzes global mu
 
 Designed for both analytical insight and visual storytelling, this dashboard enables users to explore patterns in music sales, listening behavior, and content distribution. It supports strategic decisions for music curators, digital media companies, and record labels.
 
+
 ## Dataset used 
 - <a href="https://github.com/PrajaktaPortfolio/Music-Analytics-Dashboard/blob/main/album.csv">Album </a>
 - <a href="https://github.com/PrajaktaPortfolio/Music-Analytics-Dashboard/blob/main/artist.csv">Artist </a>
@@ -26,6 +27,7 @@ Designed for both analytical insight and visual storytelling, this dashboard ena
 - **Total Sales:**	Total number of sales or purchases (e.g., song downloads or albums sold).
 - **Total Quantity:** Sold	The total volume or units sold, possibly indicating number of items bought.
 -** Total Minutes:**	Total listening time in minutes, summing up user consumption duration.
+
 
 ## Key Dashboard Features
 - **Year Selector (2017–2020):**	View analytics based on the selected year
